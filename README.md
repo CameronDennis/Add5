@@ -14,3 +14,7 @@ In the top text box beneath the buttons "Next, Continue...", enter the following
 `ld add5.obj`
 
 After you've entered these commands, press the continue button at the top, then click inside of the white box under the large black box on the bottom left. This is the interface for sending text to the program. You may then interact with the program.
+
+
+
+You do not have my permission to copy this code and claim it as your own. If you would like to build off of it/improve upon it, you may do so, but you *must* credit me.
